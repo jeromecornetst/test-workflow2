@@ -70,4 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## Another section
 
-To be defined.
+A succesful workflow.
